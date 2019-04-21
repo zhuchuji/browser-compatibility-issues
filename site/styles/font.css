@@ -1,0 +1,31 @@
+.font-small {
+  font-size: 0.875rem;
+}
+
+.font-normal {
+  font-size: 1rem;
+}
+
+.font-big {
+  font-size: 1.25rem;
+}
+
+.font-large {
+  font-size: 1.5rem;
+}
+
+.font-huge {
+  font-size: 2rem;
+}
+
+.font-thin {
+  font-weight: thin;
+}
+
+.font-regular {
+  font-weight: normal;
+}
+
+.font-bold {
+  font-weight: bold;
+}
